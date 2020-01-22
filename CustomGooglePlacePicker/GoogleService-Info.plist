@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>822648108396-n2gj7n7slscksepreinoe9646job1gg6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.822648108396-n2gj7n7slscksepreinoe9646job1gg6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC_KBMW0p-u7DXBmtHzw2gtw9x1CNFJvNU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>822648108396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CustomGooglePlacePicker</string>
+	<key>PROJECT_ID</key>
+	<string>customplacepicker-53852</string>
+	<key>STORAGE_BUCKET</key>
+	<string>customplacepicker-53852.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:822648108396:ios:01879ce218b3f35b8daf49</string>
+	<key>DATABASE_URL</key>
+	<string>https://customplacepicker-53852.firebaseio.com</string>
+</dict>
+</plist>

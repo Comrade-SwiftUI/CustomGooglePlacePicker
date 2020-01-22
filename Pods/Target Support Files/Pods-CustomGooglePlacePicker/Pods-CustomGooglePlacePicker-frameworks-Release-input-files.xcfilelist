@@ -1,0 +1,12 @@
+${PODS_ROOT}/Target Support Files/Pods-CustomGooglePlacePicker/Pods-CustomGooglePlacePicker-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AANotifier/AANotifier.framework
+${BUILT_PRODUCTS_DIR}/AAViewAnimator/AAViewAnimator.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/Moya-ObjectMapper/Moya_ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/Result/Result.framework
+${BUILT_PRODUCTS_DIR}/RxAlamofire/RxAlamofire.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
